@@ -8,3 +8,6 @@ The model predicts [y] from [x] using gradient descent to minimize Mean Squared 
 What I learned: Building this made gradient descent click for me — it's not magic, it's just repeatedly asking "which direction reduces my error, and by how much" and taking small steps that way. It also helped me connect the linear algebra concepts (vectors, matrix operations) I was learning separately to something concrete and working.
 
 nvm :)
+
+so this repo is just to calcuklate my progress in linear regression 
+
